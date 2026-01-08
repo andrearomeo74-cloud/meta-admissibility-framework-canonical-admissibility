@@ -1,4 +1,4 @@
-# Systemic Admissibility
+# A Canonical Meta-Framework for Systemic Admissibility
 
 **Systemic Admissibility** is a canonical meta-framework for analyzing stability, viability, and scaling across complex systems under constraint.
 
