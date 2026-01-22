@@ -1,5 +1,23 @@
-# Congruity ↔ QFR Canonical Alignment
+# Canonical Alignment Statement
 
+This document records a canonical alignment between:
+
+- The Congruity Canonical Framework (this repository)
+- Wade’s Canonical Articulation (QFR)
+
+This alignment is:
+- Semantic, not structural
+- Grammatical, not operational
+- Referential, not generative
+
+No new principles are introduced.
+No mechanisms are defined.
+No hierarchy is asserted.
+
+The two works are independent, closed, and mutually coherent
+at the level of admissibility grammar and closure structure.
+
+This statement exists solely to prevent misinterpretation.
 This document provides a semantic alignment between
 the Congruity admissibility framework and QFR.
 
