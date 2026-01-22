@@ -1,6 +1,6 @@
 # Quaternion Field Recursion (QFR) — Canonical Articulation
 
-The work of Wade (Hunter Wade) on Quaternion Field Recursion (QFR)
+The work of R. Wade H. Marr (aka “Hunter Wade”) on Quaternion Field Recursion (QFR)
 is included here as a **canonical articulation**, not as an operational model.
 
 QFR does not introduce new dynamics, algorithms, or mechanisms.
