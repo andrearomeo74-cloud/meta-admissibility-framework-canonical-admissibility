@@ -29,3 +29,6 @@ This layer is intentionally:
 All executable or predictive work must occur **downstream**.
 
 This repository remains fixed as a **reference grammar for admissibility**.
+
+No further conceptual, mathematical, or structural extensions are intended within this repository.
+All future work must occur strictly downstream as non-canonical interpretations or applications.
