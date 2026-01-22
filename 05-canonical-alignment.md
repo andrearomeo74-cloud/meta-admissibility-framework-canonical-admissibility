@@ -3,7 +3,7 @@
 This document records a canonical alignment between:
 
 - The Congruity Canonical Framework (this repository)
-- Wade’s Canonical Articulation (QFR)
+- R. Wade H. Marr (aka “Hunter Wade”) Canonical Articulation (QFR)
 
 This alignment is:
 - Semantic, not structural
